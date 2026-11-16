@@ -154,6 +154,9 @@
         <mxCell id="CXG5vbV3xCWzGMHqRnaD-65" edge="1" parent="1" source="CXG5vbV3xCWzGMHqRnaD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="CXG5vbV3xCWzGMHqRnaD-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CXG5vbV3xCWzGMHqRnaD-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tekma" vertex="1">
+          <mxGeometry height="30" width="60" x="21" y="255" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
